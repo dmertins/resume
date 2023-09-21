@@ -1,0 +1,61 @@
+/*!
+ * Style extracted and adapted by Daniel Mertins from Pillar theme, by Xiaoying Riley.
+ * Following is the original copyright information:
+ * 
+ * Template Name: Pillar - Bootstrap 5 Resume/CV Template for Developers
+ * Version: Bootstrap 5 v3.0
+ * Author: Xiaoying Riley
+ * Copyright: 3rd Wave Media
+ * Twitter: @3rdwave_themes
+ * Website: https://themes.3rdwavemedia.com/
+*/
+/*!
+   * Bootstrap  v5.3.0 (https://getbootstrap.com/)
+   * Copyright 2011-2023 The Bootstrap Authors
+   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+   */
+
+.badge-light {
+    color: #58677c;
+    background: #F7F8FA;
+    font-size: 12px;
+}
+
+.details-footnote {
+    color: #97AAC3;
+    font-size: 11px;
+}
+
+.footnote-index {
+    font-weight: bold;
+}
+
+.header-inline {
+    display: inline;
+    font-size: 14px;
+}
+
+.list-inline {
+    display: inline;
+    line-height: 24px;
+}
+
+.profile {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: gainsboro;
+    background-image: url(../images/profile.png);
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+}
+
+.main-wrapper {
+    padding-left: 300px;
+    padding-right: 60px;
+}
+
+.sidebar-wrapper {
+    left: 0;
+}
