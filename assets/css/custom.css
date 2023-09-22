@@ -60,6 +60,10 @@
     left: 0;
 }
 
+.sidebar-wrapper .interests-list .svg-inline--fa {
+    margin-right: 5px;
+}
+
 @media (max-width: 767.98px) {
     .main-wrapper {
       padding: 30px;
